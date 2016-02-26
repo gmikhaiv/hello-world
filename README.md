@@ -1,3 +1,4 @@
 # mygit-sample
 test rep
-This is my first comment
+This is my first change
+This is my second change
